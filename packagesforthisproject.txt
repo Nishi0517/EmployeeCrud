@@ -1,3 +1,16 @@
+databse - [EmpCrudDB]
+
+code first approach
+
+migration
+
+add-migration 'initial'
+update-database
+
+"ConnectionStrings": {
+    "CRUDCS": "server=ATI-1;database=EmpCrudDB;Integrated Security=True; MultipleActiveResultSets=true; TrustServerCertificate=True;"
+  },
+
 
 backend packages
 
@@ -18,7 +31,5 @@ npm install react-toastify --save
 
 
 all code is completed-- api is running properly
-
-from front end side it throws error of network / else all are perfectly running
 
 issue: - when it successfully added/update/delete record toaster is not set .
