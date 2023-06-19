@@ -1,0 +1,24 @@
+
+backend packages
+
+microsoft.aspnetcore.mvc.cors
+Microsoft.EntityFramework
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+for create application in react-
+
+npx create-react-app sample-crud
+
+Frontend packages
+
+npm install react-bootstrap bootstrap
+npm i axios
+npm install react-toastify --save
+
+
+all code is completed-- api is running properly
+
+from front end side it throws error of network / else all are perfectly running
+
+issue: - when it successfully added/update/delete record toaster is not set .
